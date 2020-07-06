@@ -1,0 +1,3 @@
+Pearls,500.0
+Jewellery,2500.0
+Car,2000.0

@@ -1,0 +1,2 @@
+Jewellery,4000
+Car,3000
